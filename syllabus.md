@@ -5,7 +5,6 @@ _Although the professor will make a best effort to have the class topic on the d
 
 AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
 
-
 ## Class 1 (16 May)
   * What Is Software Testing?
   * Basic Testing Theory and Terminology
@@ -37,7 +36,6 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
 ## Class 6 (6 Jun)
   * Unit Testing & Testable Code Exercise
   * Behavior-Driven Development
-  * READING: None, see slides
   
 ## Class 7 (8 Jun)
   * Web Testing with Selenium, Part 1
@@ -60,16 +58,15 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
 ## Class 11 (22 Jun)
   * Performance Testing, Part 3
   * Performance Testing Exercise
-  * READING: AFIST, Chapter 21
   
 ## Class 12 (27 Jun)
   * Security Testing, Part 1
   * Security Testing, Part 2
+  * READING: AFIST, Chapter 20
   
 ## Class 13 (29 Jun)
   * Security Testing, Part 3
   * Security Exercise
-  * READING: None, see slides
 
 ## INDEPENDENCE DAY (4 Jul)
   * NO CLASS
@@ -90,7 +87,7 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
   * READING: TBD
 
 ## Class 17 (18 Jul)
-  * Static Analysis Exercise
+  * The Process of Quality
 
 ## Class 18 (20 Jul)
   * Safe Programming with Rust
