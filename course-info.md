@@ -6,15 +6,16 @@ Software Quality Assurance
 **Taught by:** Bill Laboon (laboon@cs.pitt.edu), GitHub username: laboon  
 **Professor's Office Hours:** SENSQ 6305
 * Monday: 1:00 PM - 2:30 PM   
-* Wednesday: 1:00 PM - 2:30 PM
+* Wednesday: 1:00 PM - 2:30 PM  
 * or by appointment.  
 
-**Class Time:** M/W 2:30 PM - 4:15 PM.
+**Class Time:** M/W 2:30 PM - 4:15 PM.  
 **Room:** SENSQ 5129
 
 **TA**:  Nannan Wen, GitHub username: NannanWen
 
 **Class GitHub repo:** https://www.github.com/LaboonCourses/CS1632_summer
+
 **Required Text:** _A Friendly Introduction to Software Testing_ by Bill Laboon.
 * This is a PDF and is available on Github
   * https://github.com/laboon/software-testing/blob/master/software-testing-laboon-ebook.pdf
@@ -99,7 +100,7 @@ class participation score.  These will not be rescheduled individually.
 ## Programming Language Selection
 
 For deliverables 1 through 6, the class will use Java with the appropriate
-frameworks (JUnit, Mockito, Selenium, Findbugs).  For the final project, students
+frameworks and tools (e.g., JUnit, Mockito, Selenium, VisualVM, Findbugs).  For the final project, students
 will develop a software system using [Rust](https://www.rust-lang.org/).
 
 If you want to use Java but aren't a fan of Eclipse, information on setting up the [Gradle build tool](https://gradle.org/) with the required packages for this course can be found [here](https://gist.github.com/alexlafroscia/c6757de349b27e34eff6).  
