@@ -15,19 +15,19 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
   * Defects
   * READING: AFIST, Chapter 5, 9
 
-## MEMORIAL DAY (23 MAY)
-  * NO CLASS
-
-## Class 3 (25 May)
+## Class 3 (23 May)
   * Breaking Software
   * Test Plans
   * READING: AFIST, Chapter 6 - 8
 
-## Class 4 (30 May)
+## Class 4 (25 May)
   * Smoke, Acceptance and Exploratory Testing 
   * Manual vs Automated Testing
   * READING: AFIST, Chapter 10 - 12
-  
+
+## MEMORIAL DAY (30 May)
+  * NO CLASS
+
 ## Class 5 (1 Jun)
   * Unit Testing, Part 1
   * Unit Testing, Part 2
