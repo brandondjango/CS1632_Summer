@@ -35,11 +35,11 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
     
 ## Class 6 (6 Jun)
   * Test-Driven Development
-  * Writing Testable Code
+  * Unit Testing Exercise
   * READING: AFIST, Chapter 15 - 16
   
 ## Class 7 (8 Jun)
-  * Unit Testing & Testable Code Exercise
+  * Writing Testable Code
   
 ## Class 8 (13 Jun)
   * Behavior-Driven Development

@@ -14,14 +14,12 @@ All code and tests should be on GitHub or GitLab in a private repository accessi
 You should turn in a title page with:
 * Your name
 * The URL of your code and tests on GitHub or a similar repository
-* The title "CS 1632 - DELIVERABLE 2: Unit Testing and Code Coverage"
+* The title "CS 1632 - DELIVERABLE 2: Unit Testing"
 
 
 Add a short ( < 1 page ) description of issues you faced when writing this code and tests.  If any tests you wrote fail, they should be included here, along with why you think that they are failing.
 
 After this, ON A SEPARATE PAGE, include a screen shot of the executed unit tests.  Note that not all tests have to pass!  However, if a test doesn't pass, it should be included in the concerns section above.
-
-ON A SEPARATE PAGE, include either a screenshot or output from a code coverage tool of your tests and the object they cover.
 
 There is no need to print out the code.  It should be on GitHub (or GitLab) BY THE BEGINNING OF CLASS.
 
@@ -30,8 +28,6 @@ At least three (3) unit tests should use test doubles.
 At least three (3) unit tests should use stubbing of methods.
 
 I expect unit tests for AT LEAST each public method that returns a value (excluding the main method), using a variety of assertions and looking at different failure modes and edge cases.  Keep in mind some of the things we learned when doing manual testing; you should be cognizant of equivalence classes, boundary values, etc. and focus on them.
-
-As a general guideline, code coverage should exceed 80%.
 
 The program should use appropriate object-oriented design.
 
@@ -85,8 +81,7 @@ For this project, you should endeavour to get a good sampling of different equiv
 ## Grading Breakdown
 * Summary and Testing Concerns- 10%
 * Screenshot of executed unit tests - 10%
-* Unit test coverage report - 10%
-* Program Code - 30%
+* Program Code - 40%
 * Test Code - 40%
 
 Please feel free to email me or come to office hours to discuss any problems you have. 
