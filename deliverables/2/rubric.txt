@@ -1,0 +1,37 @@
+Summary (10%):                                              _____ / 10
+
+Screenshot of executed unit tests (10%):                    _____ / 10
+
+Program code (40%):
+
+Proper argument conditions (ceases execution cleanly
+if incorrect type or wrong number) :                        _____ / 10
+
+Proper layout of City:                                      _____ / 5
+
+Seed accepted (reproducible w/ same seed):                  _____ / 5
+
+Drivers follow valid paths:                                 _____ / 10
+
+Proper display output:                                      _____ / 5
+ 
+Good object-oriented style:                                 _____ / 5
+
+Test Code (40%):
+
+Public methods tested:                                      _____ / 15
+
+Edge cases tested:                                          _____ / 10
+
+At least 3 doubles used:                                    _____ / 5
+
+At least 3 stubs used:                                      _____ / 5
+
+Good style:                                                 _____ / 5
+
+-----
+
+Total:                                                      _____ / 100
+
+
+
