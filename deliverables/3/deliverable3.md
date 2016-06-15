@@ -4,7 +4,7 @@ Summer Semester 2015
 DUE 22 Jun 2016
 
 ## Deliverable 3
-n
+
 For this assignment, your group will write systems-level, automated black-box tests for a Ruby compilation visualizer using the BDD model discussed in class.  That is, you will write user stories (features) and scenarios, and then use JUnit and Selenium tests.  You should substantially the functionality for the project, and note in the "Testing Concerns" section what other aspects you would additionally add for full testing if this were a professional product.
 
 Tests and code should be on GitHub or GitLab by the beginning of class on the due date.
@@ -70,11 +70,11 @@ Now, for some compiler theory.  If you have taken compilers, this is a very brie
 
 I do not expect you to understand the entire compilation process, or memorize all of the operations.  Understanding the following should be enough to write sufficient tests for this assignment.
 
-Tokenization: Know that any spaces should show up at `:on_sp`.  Identifiers for functions such as `puts` should show up as `:on_ident`.  Variables such as `a` are also identifiers.  Newlines should show up as `:on_nl`.  Operators such as `+` and `*` are identified with `:on_op`.
+_Tokenization_: Know that any spaces should show up at `:on_sp`.  Identifiers for functions such as `puts` should show up as `:on_ident`.  Variables such as `a` are also identifiers.  Newlines should show up as `:on_nl`.  Operators such as `+` and `*` are identified with `:on_op`.
 
-Parsing: Any non-whitespace (e.g. `:op_nl` or `:on_sp`) tokens (such as `+`, `-`, or `puts`) which appear when being tokenized should also appear in the AST (parse tree).  Whitespace tokens should not appear in the AST.
+_Parsing_: Any non-whitespace (e.g. `:op_nl` or `:on_sp`) tokens (such as `+`, `-`, or `puts`) which appear when being tokenized should also appear in the AST (parse tree).  Whitespace tokens should not appear in the AST.
 
-Compiling: Any program that contains `puts` should also have the `putstring` YARV operation.  A program which contains `+` should call the opt_plus operation, plus put any of the values specified on the stack using the `putobject` operation.  Any program which contains `-` (subtraction) should contain the `opt_minus` operation, any program with `/`(division) should contain `opt_div`, any program with `*` should contain `opt_mult`.
+_Compiling_: Any program that contains `puts` should also have the `putstring` YARV operation.  A program which contains `+` should call the opt_plus operation, plus put any of the values specified on the stack using the `putobject` operation.  Any program which contains `-` (subtraction) should contain the `opt_minus` operation, any program with `/`(division) should contain `opt_div`, any program with `*` should contain `opt_mult`.
 
 
 ## Grading
