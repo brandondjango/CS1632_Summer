@@ -5,7 +5,7 @@ DUE 22 Jun 2016
 
 ## Deliverable 3
 
-For this assignment, your group will write systems-level, automated black-box tests for a Ruby compilation visualizer using the BDD model discussed in class.  That is, you will write user stories (features) and scenarios, and then use JUnit and Selenium tests.  You should substantially the functionality for the project, and note in the "Testing Concerns" section what other aspects you would additionally add for full testing if this were a professional product.
+For this assignment, you will write systems-level, automated black-box tests for a Ruby compilation visualizer using the BDD model discussed in class.  That is, you will write user stories (features) and scenarios, and then use JUnit and Selenium tests.  You should substantially the functionality for the project, and note in the "Testing Concerns" section what other aspects you would additionally add for full testing if this were a professional product.
 
 Tests and code should be on GitHub or GitLab by the beginning of class on the due date.
 
@@ -16,9 +16,9 @@ The Ruby compilation visualizer, Hoodpopper, is located here: http://lit-bayou-7
 If you are interested, this is a Rails application written by me for Ruby compilation analysis so that I could improve performance in a Ruby app.  The code is located here: https://github.com/laboon/hoodpopper The tests you write can be black-box tests; you should not need to look at this code unless you're interested.  If you'd prefer to do some grey-box testing, feel free to check out the code, but once again, it is not necessary.
 
 ## Format
-Every group should have a title page with:
+Everyone should have a title page with:
 * The name of the project under test
-* The names of the people in the group
+* Your name
 * The title "CS 1632 - DELIVERABLE 3: Web Testing with BDD"
 
 For the summar, add a description of issues you faced when writing these tests and problems you would expect going forward based on your experiences.  If any tests you wrote fail, they should be included here.  Also note if there are any special steps to get the tests running.
